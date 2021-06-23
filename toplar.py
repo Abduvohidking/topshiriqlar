@@ -123,6 +123,72 @@
 #     print("bu oyda 31 kun bor")
 
 
+# # 10 Topshiriq
+
+# a = int(input("Oyni kiriting\n>>>"))
+# b = int(input("Kunini kiriting"))
+# c = (12-a)*30
+# if a == 1 or a == 3 or a == 5 or a == 7 or a == 8 or a == 10 or a == 12:
+#     print(f"Yangi yilgacha {(31-b)+c} kun qoldi")
+# else:
+#     print(f"Yangi yilgacha {c+(30-b)} kun qoldi ")
+
+
+# 11 topshiriq
+
+# a = int(input("Oy tartib raqamini kiriting"))
+# if a == 1 or a==2 or a==12:
+#     print("Qish fasli") 
+# elif a==3 or a==4 or a==5:
+#     print("Bahor fasli")
+# elif a==6 or a==7 or a==8:
+#     print("Yoz fasli")
+# elif a==9 or a==10 or a==11:
+#     print("Kuz fasli")
+# elif a>12:
+#     print("Bir yilda 12 oy mavjud")
+
+# 12 Topshiriq
+
+# a = int(input("Yoshingizni kiriting\n>>>"))
+# if a>=25 and a<=40:
+#     print("Siz ishga kirish uchun suhbatdan o`ting")
+# else:
+#     print("Sizning yoshingiz ishxonada belgilangan yoshga to`g`ri kelmaydi ")
+
+
+# # 13 Topshiriq
+
+# a = int(input("Yoshingizni kiriting\n>>>"))
+# if a>=0 and a<=5:
+#     print("Chaqaloq")
+# elif a>=6 and a<=12:
+#     print("Bola")
+# elif a>=13 and a<=19:
+#     print("O`sprin")
+# elif a>=20 and a<=50:
+#     print("Yoshroq")
+# elif a>=50 and a<=100:
+#     print("Keksa")
+# elif a>100:
+#     print("Asrodami")
+# # 8 topshiriq
+# sonlar = []
+# sonlar.append(input("a="))
+# sonlar.append(input("b="))
+# sonlar.append(input("c="))
+# sonlar.append(input("d="))
+# sonlar.append(input("j="))
+# sonlar.sort()
+# print(sonlar[-1])
+
+
+
+
+
+
+
+
 
 
 
